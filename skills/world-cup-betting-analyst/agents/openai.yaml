@@ -1,0 +1,4 @@
+interface:
+  display_name: "世界杯投注分析"
+  short_description: "分析赛程赔率水位、详细技战术报告与资金分配HTML投注单"
+  default_prompt: "Use $world-cup-betting-analyst to analyze today’s nearest three World Cup matches and generate a detailed tactical report plus bankroll-aware HTML betting slip."
