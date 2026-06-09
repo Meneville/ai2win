@@ -1,0 +1,8 @@
+# Generated daily reports
+world-cup-betting-report-*.html
+world-cup-betting-report-*.json
+sample.html
+sample.json
+
+# Local OS/editor files
+.DS_Store
